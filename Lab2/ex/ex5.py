@@ -52,4 +52,4 @@ def spiral_matrix_print(row, col, arr):
             left += 1
             direction = 0
 
-spiral_matrix_print()(R,C, matrix)
+spiral_matrix_print(R,C, matrix)
